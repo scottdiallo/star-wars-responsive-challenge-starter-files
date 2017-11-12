@@ -1,0 +1,16 @@
+/*mobile responsivenes goes here*/
+
+@media only screen and (max-width:639px) {}
+
+@media only screen and (min-width:640px) {}
+
+
+/*when screen is wider than 1000px grid should stp expanding and should be centered*/
+
+@media only screen and (min-width:1000px) {
+    /*
+    main {
+     text-align: center;
+ }
+*/
+}
